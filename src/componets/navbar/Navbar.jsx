@@ -29,6 +29,7 @@ const Navbar = () =>{
                 <div className="gpt_navbar_links_container">
                     <Menu />
                 </div>
+                </div>
                 <div className="gpt_navbar_sign">
                     <p>Sign in</p>
                     <button type="button">Sign Up</button>
@@ -52,7 +53,6 @@ const Navbar = () =>{
                         )
                     }
                 </div>
-            </div>
         </div>
     )
 };
