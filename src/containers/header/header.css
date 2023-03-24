@@ -21,7 +21,7 @@
 .gpt_header_content p{
     font-family: var(--font-family);
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 20px;
     line-height: 27px;
     color: var(--color-text);
